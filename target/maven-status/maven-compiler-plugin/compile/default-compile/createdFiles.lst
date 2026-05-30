@@ -1,0 +1,13 @@
+com\elearning\model\Notification.class
+com\elearning\controller\TeacherDashboardController.class
+com\elearning\db\DatabaseManager.class
+com\elearning\MainApp.class
+com\elearning\controller\StudentDashboardController.class
+com\elearning\controller\ContentController.class
+com\elearning\controller\LoginController.class
+com\elearning\model\Subject.class
+com\elearning\model\Material.class
+com\elearning\controller\SubjectController.class
+com\elearning\controller\SearchController.class
+com\elearning\model\User.class
+com\elearning\UserSession.class
